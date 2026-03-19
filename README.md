@@ -30,7 +30,7 @@ A Python-based system for managing highway painting operations, employees, and c
 - Approval by manager
 
 <p align="center">
-  <img src="images/leave-request.png" width="600"/>
+  <img src="images/Urlaub.png" width="600"/>
   <img src="images/leave-approval.png" width="600"/>
 </p>
 
