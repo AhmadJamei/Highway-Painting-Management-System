@@ -31,7 +31,6 @@ A Python-based system for managing highway painting operations, employees, and c
 
 <p align="center">
   <img src="images/Urlaub.png" width="600"/>
-  <img src="images/leave-approval.png" width="600"/>
 </p>
 
 ---
@@ -39,8 +38,7 @@ A Python-based system for managing highway painting operations, employees, and c
 ## 👥 Customer Management
 
 <p align="center">
-  <img src="images/customer-form.png" width="600"/>
-  <img src="images/customer-report.png" width="600"/>
+  <img src="images/Customaer Table.png" width="600"/>
 </p>
 
 ---
@@ -48,8 +46,7 @@ A Python-based system for managing highway painting operations, employees, and c
 ## 📄 Contracts
 
 <p align="center">
-  <img src="images/contract-form.png" width="600"/>
-  <img src="images/contract-report.png" width="600"/>
+  <img src="images/Contract Table.png" width="600"/>
 </p>
 
 ---
@@ -62,7 +59,7 @@ A Python-based system for managing highway painting operations, employees, and c
 - Weather dependency (important for painting)
 
 <p align="center">
-  <img src="images/weekly-projects.png" width="700"/>
+  <img src="images/Kalender Woche.png" width="700"/>
 </p>
 
 ---
