@@ -19,7 +19,7 @@ A Python-based system for managing highway painting operations, employees, and c
 - Admin login
 
 <p align="center">
-  <img src="images/>Login.png" width="600"/>
+  <img src="images/Login.png" width="600"/>
 </p>
 
 ---
