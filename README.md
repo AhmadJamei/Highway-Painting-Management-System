@@ -64,6 +64,11 @@ A Python-based system for managing highway painting operations, employees, and c
 
 ---
 
+<p align="center">
+  <a href="[LINK_YOUTUBE](https://youtu.be/Q5qEzHuj9dY)اول اینکه ">
+    <img src="images/admin_dashboard_demo.gif" width="800"/>
+  </a>
+</p>
 ## ⚠️ Note
 
 All data and company names have been anonymized for confidentiality.
