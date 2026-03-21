@@ -3,6 +3,14 @@
 
 A Python-based system for managing highway painting operations, employees, and contracts.
 
+
+---
+
+<p align="center">
+  <a href="LINK_YOUTUBE">
+    <img src="images/admin_dashboard_demo.gif" width="800"/>
+  </a>
+</p>
 ---
 
 ## 🎬 Demo
