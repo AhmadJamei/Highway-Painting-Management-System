@@ -1,7 +1,6 @@
 # 🚧 Highway Painting Management System
 
-A Python-based management system designed to streamline highway painting operations, employee coordination, and contract 
-handling with a focus on efficiency and real-world constraints such as weather conditions.
+A Python-based management system designed to streamline highway painting operations, employee coordination, and contract handling with a focus on efficiency and real-world constraints such as weather conditions.
 
 ---
 
@@ -18,11 +17,12 @@ handling with a focus on efficiency and real-world constraints such as weather c
 ## 🧠 Problem
 
 Highway painting projects require precise coordination between employees, contracts, and environmental conditions.  
-Manual management often leads to:
+Manual processes often lead to:
 
 - Scheduling conflicts  
 - Inefficient resource allocation  
 - Delays due to weather dependency  
+- Time-consuming paper-based workflows for leave and approvals  
 
 ---
 
@@ -31,6 +31,7 @@ Manual management often leads to:
 This system centralizes all operations into one platform, enabling:
 
 - Structured employee and role management  
+- Digital leave request and approval system  
 - Efficient contract and customer tracking  
 - Weekly project planning with weather awareness  
 
@@ -46,54 +47,26 @@ This system centralizes all operations into one platform, enabling:
   <img src="images/Login.png" width="600"/>
 </p>
 
----
-
-### 📝 Leave Management System
-- Submit leave and sick requests  
-- Manager approval workflow  
-
-<p align="center">
-  <img src="images/Urlaub.png" width="600"/>
-</p>
-
----
-
-
-### 🔐 Authentication & Role Management
-- Secure login system  
-- Role-based access Manager 
-
 <p align="center">
   <img src="images/Manager_Login.png" width="600"/>
 </p>
 
 ---
 
-## 🧠 Problem
+### 📝 Leave Management System
+- Submit leave and sick requests  
+- Manager approval workflow  
+- Digital confirmation of requests  
 
-A lot of time is spent on requesting leave and sick leave, and paper is used to do these things.
-
-- Too much paper
-- To much Time to receive request
-
-## 💡 Solution
-
-Requests are sent online to Human Resources or Management, eliminating bureaucracy and paper usage. The result of the 
-leave request is also sent to the employee instantly by automatic Email, SMS, or WhatsApp.
-
-- Eliminating bureaucracy and paper usage
-- Online response via SMS, Email, WhatsApp
-  
-### 🔐 Confirmation Leave / Sick leave
-+
-- Role-based access Manager
+<p align="center">
+  <img src="images/Urlaub.png" width="600"/>
+</p>
 
 <p align="center">
   <img src="images/Confirmation.png" width="600"/>
 </p>
 
 ---
-
 
 ### 👥 Customer Management
 - Store and manage customer records  
@@ -128,7 +101,7 @@ leave request is also sent to the employee instantly by automatic Email, SMS, or
 
 - Python  
 - Django (Web Framework)  
-- SQLite (Database) 
+- SQLite (Database)  
 
 ---
 
